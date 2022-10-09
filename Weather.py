@@ -2,7 +2,7 @@ import tkinter as tk
 import requests, json
 import time
 
-#Student Name: Sonu Yadav
+#Student Name: Sonu
 #Studen ID: c0844501
 global city_name_string
 
